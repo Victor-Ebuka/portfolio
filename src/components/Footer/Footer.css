@@ -1,0 +1,26 @@
+.Footer {
+  margin-top: 40px;
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.Footer p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.Footer .social-links {
+  margin-top: 10px;
+}
+
+.Footer .social-links a {
+  color: #4caf50;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.Footer .social-links a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,28 @@
+.Header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #004aad;
+  color: #fff;
+  padding: 20px;
+}
+
+.Header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.Header nav {
+  margin-top: 10px;
+}
+
+.Header nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.Header nav a:hover {
+  text-decoration: underline;
+}
